@@ -6,7 +6,7 @@ Camel Case (also known as lowerCamelCase, dromedary case or illustratively as ca
 Example: ```bookingId```
 
 ## Pascal Case
-Pascal Case (also known UpperCamelCase or illustratively as PascalCase) is a writing convention to create compound word and phrases by connecting multiple capitalized words with no space or punctuation.
+Pascal Case (also known as UpperCamelCase or illustratively as PascalCase) is a writing convention to create compound word and phrases by connecting multiple capitalized words with no space or punctuation.
 
 Example: ```LoanCalculator```
 
